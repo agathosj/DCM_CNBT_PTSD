@@ -11,5 +11,7 @@ The [Run_PEB_and_LOOCV_Diagnosis_CNBT.m](Run_PEB_and_LOOCV_Diagnosis_CNBT.m) scr
 
 The [Run_LOOCV_PTCI.m](Run_LOOCV_PTCI.m) script will reproduce the LOOCV results predicting posttraumatic cognitions in the PTSD group from modulation of MPFC-to-MDT connectivity during cognitive restructuring (Supplementary Figure SF1B-E).
 
-## Notes
-* Due to their large file size, the GCM files which contain subject-level DCM estimates ([GCM.mat](GCM.mat) for the main DCM analyses; [PTSD_GCM_PTCI.mat](PTSD_GCM_PTCI.mat) for supplementary LOOCV analyses within the PTSD group) should be downloaded separately and placed in the same directory as the .m script files.
+## NOTES – IMPORTANT
+Due to GitHub's system for storing large files, the GCM files which contain subject-level DCM estimates ([GCM.mat](GCM.mat) for the main DCM analyses; [PTSD_GCM_PTCI.mat](PTSD_GCM_PTCI.mat) for supplementary LOOCV analyses within the PTSD group) need to be downloaded separately and placed in the same directory as the .m script files.
+
+To correctly download the GCM files, click on the file in the repository and click on either the 'Raw' or 'Download raw file' button. GCM files that are obtained by downloading the whole repository (e.g., as a .zip file) will not work.
