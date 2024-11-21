@@ -1,5 +1,5 @@
 ## Cognitive Restructuring in PTSD – Effective Connectivity Analyses
-The repository contains de-identified effective connectivity data and the codes used to support the main findings in the Agathos et al. manuscript. Analyses use the SPM12 software package [https://www.fil.ion.ucl.ac.uk/spm](https://www.fil.ion.ucl.ac.uk/spm) within MATLAB.
+The repository contains de-identified effective connectivity data and the scripts used to support the main findings in the Agathos et al. manuscript. Analyses use the SPM12 software package [https://www.fil.ion.ucl.ac.uk/spm](https://www.fil.ion.ucl.ac.uk/spm) within MATLAB.
 
 This study aimed to characterise alterations in effective connectivity of a thalamocortical brain network, centred on the mediodorsal thalamus, during cognitive restructuring of negative cognitions in PTSD relative to trauma-exposed controls. 
 
